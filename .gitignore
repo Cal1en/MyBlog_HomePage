@@ -7,3 +7,9 @@ public/
 .deploy*/
 _multiconfig.yml
 h -u origin main
+check_chinese_math.js
+cleanup_yuque_article.js
+fix_all_html.js
+fix_html.js
+fix_inline_math.js
+fix_math.js
