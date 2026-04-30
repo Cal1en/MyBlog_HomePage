@@ -1,0 +1,34 @@
+.post-content .markdown-body h1 {
+  color: #FF6600;
+  border-bottom: 3px solid currentColor !important;
+}
+
+.post-content .markdown-body h2 {
+  color: #40B8FA;
+  border-bottom: 1px dashed currentColor !important;
+}
+
+.post-content .markdown-body h3 {
+  color: #C34DFF;
+}
+
+.post-content .markdown-body h4 {
+  color: #DD99FF;
+}
+
+.post-content .markdown-body h5 {
+  color: #EECCFF;
+}
+
+.post-meta .icon-clock-fill::after {
+  content: " 预计阅读时长 ";
+}
+
+.anchorjs-link,
+.anchorjs-link-left {
+  display: none !important;
+}
+
+.markdown-body [data-anchorjs-icon]::after {
+  display: none !important;
+}

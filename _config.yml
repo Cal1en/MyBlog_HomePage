@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ??????
+title: Callen's Blog
 subtitle: ''
 description: ''
 keywords:
@@ -97,6 +97,31 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
+
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - name: '@traptitech/markdown-it-katex'
+      options:
+        strict: false
+  anchors:
+    level: 1
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
+
+heading_numbering:
+  enable: true
+  min_level: 1
+  max_level: 6
+  scope: post
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
