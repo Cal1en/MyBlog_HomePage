@@ -32,3 +32,8 @@
 .markdown-body [data-anchorjs-icon]::after {
   display: none !important;
 }
+
+/* 首行缩进 */
+.post-content .markdown-body p {
+  text-indent: 2em;
+}
