@@ -1,5 +1,5 @@
 ---
-title: (legacy) Unity Shader 入门精要全书笔记
+title: (legacy) 《Unity Shader入门精要》全书笔记
 date: 2026-04-01 15:00:00
 categories:
   - 技术美术
