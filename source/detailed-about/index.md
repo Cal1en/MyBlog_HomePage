@@ -7,13 +7,13 @@ layout: about
 
 我叫**陈亮吉 (Liangji Chen)**，目前就读于**上海大学上海电影学院 (Shanghai Film Academy, Shanghai University)** 的数字媒体技术专业。
 
-我正在致力于学习 **Unity 游戏程序开发**以及**技术美术 (Technical Art)**。在导师 **[李梦甜 (Mengtian Li) 老师](https://mtli.github.io/)** 的悉心指导下，我正在参与一系列与人工智能（AI）相关的研究工作。目前，我正致力于探寻并拓展 AI 技术与游戏开发深度结合的无限可能性。
+我正在致力于学习 **Unity 游戏程序开发**以及**技术美术 (Technical Art)**。在导师 **[李梦甜 (Mengtian Li) 老师](https://mengtianli.github.io/)** 的悉心指导下，我正在参与一系列与人工智能（AI）相关的研究工作。目前，我正致力于探寻并拓展 AI 技术与游戏开发深度结合的无限可能性。
 
 ---
 
 I am **Liangji Chen**, currently an undergraduate student majoring in Digital Media Technology at the **[Shanghai Film Academy](https://sfa.shu.edu.cn/)**, Shanghai University.
 
-I am dedicated to learning **Unity Game Programming** and **Technical Art (TA)**. Under the supervision of **[Prof. Mengtian Li](https://mtli.github.io/)**, I am participating in a series of research projects related to Artificial Intelligence (AI). Currently, my research interests focus on exploring the possibilities and integrations between AI technologies and game development.
+I am dedicated to learning **Unity Game Programming** and **Technical Art (TA)**. Under the supervision of **[Prof. Mengtian Li](https://mengtianli.github.io/)**, I am participating in a series of research projects related to Artificial Intelligence (AI). Currently, my research interests focus on exploring the possibilities and integrations between AI technologies and game development.
 
 ---
 
