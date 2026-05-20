@@ -14,3 +14,8 @@ fix_html.js
 fix_inline_math.js
 fix_math.js
 启动博客.bat
+build_zhihu_markdown.py
+convert_aligned_blocks.py
+convert_highlight_blocks.py
+remove_bold_from_code.py
+remove_latex_color.py
