@@ -2,6 +2,9 @@
 title: 关于我
 date: 2026-04-30 15:00:00
 layout: about
+icons:
+  - { class: "iconfont icon-github-fill", link: "https://github.com/Cal1en", tip: "GitHub" }
+  - { class: "iconfont icon-zhihu-fill", link: "https://www.zhihu.com/people/chen-lun-callensink", tip: "知乎" }
 ---
 ## 👨‍🎓 关于我 / About Me
 
