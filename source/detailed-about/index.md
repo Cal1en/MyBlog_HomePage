@@ -24,9 +24,19 @@ I am dedicated to learning **Unity Game Programming** and **Technical Art (TA)**
 
 * **Game Engine:** Unity, UE5
 * **Programming Languages:** C++, C#, Python...
-* **Areas of Interest:** Technical Art, Game Programming, Artificial Intelligence in Games
+* **Areas of Interest:** Technical Art, Game Programming, Artificial Intelligence in Games...
 * **AI-Assisted Tools:** Cursor, Windsurf, Trae, Kiro...
 * **Tools & Software:** Maya, Git, Premiere Pro (PR), Photoshop (PS), After Effects (AE), Wwise, Protools...
+
+---
+
+## 🏆 所获奖项 / Awards
+
+- 第十七届蓝桥杯全国大学生软件和信息技术大赛软件赛 C/C++程序设计大学A组 上海赛区二等奖
+- ~~2026年美国大学生数学建模竞赛S奖~~
+- 上海大学2025年中国国际大学生创新大赛校级选拔赛银奖
+- 上海大学2024-2025学年学业优秀特等奖学金
+- 上海大学2023-2024学年学业优秀特等奖学金
 
 ---
 
