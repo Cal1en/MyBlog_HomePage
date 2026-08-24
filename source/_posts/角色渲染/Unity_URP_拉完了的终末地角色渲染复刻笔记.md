@@ -16,26 +16,12 @@ sticky: 101
 }
 </style>
 
-本文已上传知乎，推荐在知乎阅读本文以获得最佳的浏览体验：https://zhuanlan.zhihu.com/p/2070844065663415772
+**本文已上传知乎，推荐在知乎阅读本文以获得最佳的浏览体验：**[我的知乎](https://zhuanlan.zhihu.com/p/2070844065663415772)
 
 > *渲染管线：Unity URP*  
-> 本文参考：
-
-[【unity urp】从零模仿复刻实现自己的终末地人物卡通渲染](https://zhuanlan.zhihu.com/p/2028819446546932894)
-
-[【Unity URP】从零开始仿终末地莱万汀渲染学习记录](https://zhuanlan.zhihu.com/p/2054958065078871199)
-
-[https://zhuanlan.zhihu.com/p/2013370672647268314](https://zhuanlan.zhihu.com/p/2013370672647268314)
-
-[https://zhuanlan.zhihu.com/p/1972323352069797451](https://zhuanlan.zhihu.com/p/1972323352069797451)
-
-> 集百家之所长这一块（）  
-> 有一说一本文真的是笔记而不是批注吗（？）  
-> 万分感谢上述大大大大大佬的分享！  
->   
+>
 > **效果展示：**
-
-[https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV18tNM69EwS/](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV18tNM69EwS/)
+> [Unity URP | 终末地角色渲染还原展示](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV18tNM69EwS/)
 
 ## 前言
 
