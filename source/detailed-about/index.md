@@ -10,7 +10,7 @@ icons:
 
 我叫**陈亮吉 (Liangji Chen)**，目前就读于**上海大学上海电影学院 (Shanghai Film Academy, Shanghai University)** 的数字媒体技术专业。
 
-我正在致力于学习 **Unity 游戏程序开发**以及**技术美术 (Technical Art)**。在导师 **[李梦甜 (Mengtian Li) 老师](https://mengtianli.github.io/)** 的悉心指导下，我正在参与一系列与人工智能（AI）相关的研究工作。目前，我正致力于学习**技术美术**的相关内容，也会在本站不定期记录一些游戏开发相关的项目实践成果与笔记，更多内容可前往 **[首页](https://callen-blog.netlify.app/)** 查看。
+我正在学习 **Unity 游戏程序开发**以及**技术美术 (Technical Art)**的相关内容。在导师 **[李梦甜 (Mengtian Li) 老师](https://mengtianli.github.io/)** 的悉心指导下，我参与了一系列与人工智能（AI）相关的研究工作。目前，我正致力于探索**技术美术**方向，也会在本站不定期记录一些游戏开发相关的项目实践成果与笔记，更多内容可前往 **[首页](https://callen-blog.netlify.app/)** 查看。
 
 ---
 
