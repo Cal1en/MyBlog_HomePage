@@ -16,7 +16,7 @@ icons:
 
 I am **Liangji Chen**, currently an undergraduate student majoring in Digital Media Technology at the **[Shanghai Film Academy](https://sfa.shu.edu.cn/)**, Shanghai University.
 
-I am dedicated to learning **Unity Game Programming** and **Technical Art (TA)**. Under the supervision of **[Prof. Mengtian Li](https://mengtianli.github.io/)**, I am participating in a series of research projects related to Artificial Intelligence (AI). Currently, I am focusing on **Technical Art** and documenting some of my game development projects and technical explorations on this site. **You can also find my other demos and projects on the homepage.**
+I am dedicated to learning **Unity Game Programming** and **Technical Art (TA)**. Under the supervision of **[Prof. Mengtian Li](https://mengtianli.github.io/)**, I am participating in a series of research projects related to Artificial Intelligence (AI). Currently, I am focusing on **Technical Art** and documenting some of my game development projects and technical explorations on this site. **You can also find my other demos and projects on the HOMEPAGE.**
 
 ---
 
