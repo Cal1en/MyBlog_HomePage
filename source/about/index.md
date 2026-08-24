@@ -2,7 +2,7 @@
 title: 1
 date: 2026-04-30 15:00:00
 layout: about
-name: "Lun Chen(?)"
+name: "陈伦(?)"
 intro: My Favourite Nickname
 ---
 
