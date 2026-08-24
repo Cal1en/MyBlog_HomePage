@@ -6,4 +6,4 @@ name: "陈伦(?)"
 intro: My Favourite Nickname
 ---
 
-Former Low Tier 3 of Minecraft 1.9+ Axe & Shield PvP player in China
+> Former Low Tier 3 (Top 30) of Minecraft 1.9+ Axe & Shield PvP Player in China.
