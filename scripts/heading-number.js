@@ -2,6 +2,9 @@ hexo.extend.filter.register('after_post_render', function (data) {
   const cfg = hexo.config.heading_numbering || {};
   if (cfg.enable === false) return data;
 
+  const source = String(data.source || '').replace(/\\/g, '/');
+  if (/(?:^|\/)Games101\//i.test(source)) return data;
+
   const minLevel = Number(cfg.min_level || 1);
   const maxLevel = Number(cfg.max_level || 6);
   const scope = cfg.scope || 'post';
